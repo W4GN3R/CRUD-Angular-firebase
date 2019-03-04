@@ -1,0 +1,18 @@
+.list-contatos {
+  border: 1px solid #ccc;
+  margin-top: 30px;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: -2px 3px 2px #868686;
+}
+
+button {
+  &.btn-default {
+    background: #0ba6f3;
+    margin-right: 10px;
+  }
+  &.btn-danger {
+    background: #f32929;
+}
+}
+
